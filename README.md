@@ -12,3 +12,5 @@ em informações Visuais usando as melhores Práticas.
 Seção 1: Introdução 0/3 - 9min
 
 Sec0103_Aula_01_Apresentacao_Instrutor
+
+Sec0203_Aula_02_Resumo_do_Curso
