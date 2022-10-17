@@ -28,3 +28,25 @@ Aula_01: Instalação do Power BI
 Aula_02: Overview do Power BI
 
 Aula_03: Configurações Básicas
+
+
+
+Seção 3: Introdução a BI - 9 aulas - 58min
+
+Aula_01: O que é BI
+
+Aula_02: Ciclo de informação
+
+Aula_03: O que é ETL
+
+Aula_04: O que é DW e DM
+
+Aula_05: Tabelas Fato e Dimensão
+
+Aula_06: O que é Star Schema e Snow Flake
+
+Aula_07: O que é OLTP e OLAP
+
+Aula_08: Sistemas operacionais e Analitícos
+
+Aula_09: Passos para Modelagem Dimensional
