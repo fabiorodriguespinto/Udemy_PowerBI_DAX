@@ -9,8 +9,22 @@ Sobre este curso
 Aprenda Microsoft Power BI - Transforme seus dados 
 em informações Visuais usando as melhores Práticas.
 
-Seção 1: Introdução 0/3 - 9min
 
-Sec0103_Aula_01_Apresentacao_Instrutor
 
-Sec0203_Aula_02_Resumo_do_Curso
+Seção 1: Introdução - 3 aulas - 9min
+
+Aula_01: Apresentação Instrutor
+
+Aula_02: Resumodo Curso
+
+Aula_03: Boas Vindas, Dicas e Material para download
+
+
+
+Seção 2: Instalando a BI - 3 aulas - 12min
+
+Aula_01: Instalação do Power BI
+
+Aula_02: Overview do Power BI
+
+Aula_03: Configurações Básicas
