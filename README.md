@@ -15,7 +15,7 @@ Seção 1: Introdução - 3 aulas - 9min
 
 Aula_01: Apresentação Instrutor
 
-Aula_02: Resumodo Curso
+Aula_02: Resumo do Curso
 
 Aula_03: Boas Vindas, Dicas e Material para download
 
@@ -80,6 +80,58 @@ Diversas outras.
 
 
 Aula_02: Ciclo de informação
+
+O ciclo da informação segue o esquema abaixo: 
+
+Dados
+- Planilhas
+- Bancos de dados
+- Internet
+
+Informação
+- Gráficos
+- Relatórios
+- Infográficos
+- Dashboards
+
+Conhecimento
+- Conhecer
+- Compreender
+- Fatos
+
+
+Tudo que se mede pode ser representado por um gráfico.
+
+Um exemplo simples:
+
+
+Dados:
+
+Contas			-		Valor
+Luz						75
+Água			-		50
+Supermercado	-		500	
+Combustível		-		65
+Lazer			-		200
+
+Salário			-		1000	
+
+Informação:
+
+Descrição		-		Valor
+Total a Pagar	-		 890
+Total a Receber	-		1000
+Saldo			-		110
+
+Conhecimento:
+
+
+Interpretação da informãção, na forma de um gráfico, que exiba faixas de consumo, indicando uma severidade nos valores gastos e recebidos.
+
+No exemplo acima, os dados são os valores recebidos e gastos, segundo os dados, a informação gerada foram os totais a pagar e a receber e uma terceira informação, totalmente nova, que é o saldo.
+
+O conhecimento se dá pela interpretação das informaçãoes para gerar um dashboard onde é possível verificar os gastos e o saldo remanescente, bem como uma tomada de decição sobre o que fazer com o saldo remanescente.
+
 
 Aula_03: O que é ETL
 
