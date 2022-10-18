@@ -159,12 +159,51 @@ Quem vai ter acesso a informação, se pode ter acesso a esta informação, é p
 
 Aula_04: O que é DW e DM
 
+O Data Warehouse é onde os dados são guardados.
+
+Data Mart são banco de dados espeficicos para cada assunto, exemplo, os dados para o departamento de marketing.
+
+
+
 Aula_05: Tabelas Fato e Dimensão
+
+
+Em um Data Warehouse, uma tabela que armazena os valores detalhados de medidas, ou fatos, é denominada 
+de tabela fatos.
+
+Uma tabela de dimensão contém o nome especifico de cada membro da dimensão.
+
 
 Aula_06: O que é Star Schema e Snow Flake
 
+Star Schema - modelo estrela
+
+O esquema estreja é composto no centro por uma tabela fato, rodeada por tabelas de dimensão.
+
+Snow Flake - modelo floco de neve
+
+
 Aula_07: O que é OLTP e OLAP
+
+
+OLTP - On line transaction Processing
+OLAP - On line analitical Processing
+
 
 Aula_08: Sistemas operacionais e Analitícos
 
+
+OLTP é um sistema operacional
+OLAP é um sistema analitico.
+
+
 Aula_09: Passos para Modelagem Dimensional
+
+Passo 1 O que estamos avaliando?
+Passo 2 Como serão avaliados ou analisados?
+Passo 3 Qual o nivel mais baixo de detalhes das informações?
+Passo 4 Como se espera agrupar ou sumarizar as informações?
+
+
+
+Seção 4: Hands on! Importando dados - 16 aulas - 1h 53min 
