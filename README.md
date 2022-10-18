@@ -135,6 +135,28 @@ O conhecimento se dá pela interpretação das informaçãoes para gerar um dash
 
 Aula_03: O que é ETL
 
+
+Extract, Transform and Load
+
+O ETL visa trabalhar com toda a parte de extração de dados de fontes externas, transformação para atender às necessidades de negócios e carga dos dados dentro do Data Warehouse.
+
+
+Requisitos do ETL
+
+Requisitos do negócio:
+É preciso definir claramente quais são os requistos do negócio.
+
+Viabilidade dos dados:
+É preciso realizar uma analise de viabilidade dos dados, se os dados existem e são acessiveis.
+
+Latencia dos dados:
+Tempo máximo permitido para disponibilização dos dados através do sistema de BI, é o tempo da carga no PowerBI, pode ser tmb o tempo de consulta ao BD.
+
+Politicas de Compliance e Segurança:
+Quem vai ter acesso a informação, se pode ter acesso a esta informação, é preciso haver segurança para que as pessoas certas tenham acesso a informação e recebam a informação no tempo certo onde ainda são relevantes.
+
+
+
 Aula_04: O que é DW e DM
 
 Aula_05: Tabelas Fato e Dimensão
