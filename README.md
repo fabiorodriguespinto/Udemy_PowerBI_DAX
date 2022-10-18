@@ -205,5 +205,13 @@ Passo 3 Qual o nivel mais baixo de detalhes das informações?
 Passo 4 Como se espera agrupar ou sumarizar as informações?
 
 
+Momento descontração:
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/8dYmJ6Buo3lYY/giphy.gif" width="100"/>
+</div>
+
+
 
 Seção 4: Hands on! Importando dados - 16 aulas - 1h 53min 
