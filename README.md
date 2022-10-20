@@ -256,7 +256,15 @@ Abrir o Power Query, e editar os itens das tabelas de para que não haja tabelas
 Ao iníciar as transformações, começamos a realizar o ETL.
 
 
-Aula_04:
+Aula_04: Organizando Fato e Dimensão
+
+Criar um grupo para as tabelas Fatos, outra para as tabelas Dimensão e outro para Medidas que serão utilizadas no decorrer do curso.
+
+
+Clique no ícone "Transformar dados" para abrir o Power Query, na coluna "Consultas" a esquerda, botão direito e selecione "Novo Grupo", dê um nome ao grupo, no caso, Fato, Dimensao e Medidas.
+
+Segurando o CTRL, clique nas tabelas Fato (Tabelas Fato iniciam com F_ e tabelas Dimensão inciam com D_) e arraste para o grupo Fato, repita para as tabelas Dimensão.
+
 Aula_05:
 Aula_06:
 Aula_07:
