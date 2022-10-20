@@ -245,7 +245,17 @@ Para não gastar processamento com campos que não são numéricos e que não se
 O tipo fica no início do cabeçalho de cada coluna, para modificar, clique sobre o tipo e escolha o tipo desejado. No caso vou modificar o tipo da coluna Cod_Cliente de númerico para texto. Na janela que abri clique no botão "Adcionar nova etapa", vou repetir para a coluna Cod_uf, após os ajustes, clique no ícone "Fechar e Aplicar"
 
 
-Aula_03: 
+Aula_03: Importando dados do Excel
+
+Importar todos as tabelas da Base_vendas, exceto a D_Clientes já importada na aula anterior sem realizar nenhuma pré edição.
+
+Editar os campos e alterar os tipos onde não for necessário o tipo de dados numérico. Percorrer cada tabela e verificar os campos de cada tabela.
+
+Abrir o Power Query, e editar os itens das tabelas de para que não haja tabelas com tipos errados.
+
+Ao iníciar as transformações, começamos a realizar o ETL.
+
+
 Aula_04:
 Aula_05:
 Aula_06:
