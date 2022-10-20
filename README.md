@@ -214,4 +214,48 @@ Momento descontração:
 
 
 
-Seção 4: Hands on! Importando dados - 16 aulas - 1h 53min 
+Seção 4: Hands on! Importando dados - 16 aulas - 1h 53min
+
+
+Aula_01: Apresentação do Modelo
+
+Apresentação da base de dados em excel que será utlizada nesta seção.
+
+
+Aula_02: Importando dados do Excel
+
+Importando dados do Excel, pasta e CSV.
+
+Para esta aula, será realizada a importação de uma tabela da base de dados em excel.
+
+Para isto, abra o PowerBI, clique em "Obter dados" ou ao abrir o ícone, na linha "Mais", na janela aberta, há os tipos de dados nas linhas a esquerda e as opções para cada linha da esquerda na seção a direita.
+
+Para iniciar, selecione o tipo "Arquivo" e na coluna da direita, "Pasta de Trabalho do Excel", clique no botão conectar, nevegue até o diretório do arquivo excel e selecione o arquivo Base_vendas.
+
+Na janela aberta, selecione a tabela dimensão D_Clientes. Ao clicar a tabela é exibida a direita, clique no botão "Transformar Dados".
+
+Na nova janela aberta, temos a exibição da tabela e o painel a direita, onde é possível ver "AS ETAPAS APLICADAS"  que são o histórico das ações ou alterações realizadas na tabela.
+
+Ajustando a tabela:
+
+Por padrão o PowerBI identificou o campos das primeiras linhas como o nome dos campos e atribui o tipo de dado conforme o preenchimento.
+
+Para não gastar processamento com campos que não são numéricos e que não serão utilizados em analises, vamos alterar o tipo de alguns campos.
+
+O tipo fica no início do cabeçalho de cada coluna, para modificar, clique sobre o tipo e escolha o tipo desejado. No caso vou modificar o tipo da coluna Cod_Cliente de númerico para texto. Na janela que abri clique no botão "Adcionar nova etapa", vou repetir para a coluna Cod_uf, após os ajustes, clique no ícone "Fechar e Aplicar"
+
+
+Aula_03: 
+Aula_04:
+Aula_05:
+Aula_06:
+Aula_07:
+Aula_08:
+Aula_09:
+Aula_10:
+Aula_11:
+Aula_12:
+Aula_13:
+Aula_14:
+Aula_15:
+Aula_16:
