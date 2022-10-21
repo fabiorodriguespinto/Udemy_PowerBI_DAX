@@ -265,7 +265,33 @@ Clique no ícone "Transformar dados" para abrir o Power Query, na coluna "Consul
 
 Segurando o CTRL, clique nas tabelas Fato (Tabelas Fato iniciam com F_ e tabelas Dimensão inciam com D_) e arraste para o grupo Fato, repita para as tabelas Dimensão.
 
-Aula_05:
+
+Aula_05: Organizando Relacionamentos
+
+Por padrão o PowerBi realizar alguns relacionamentos, mas como quero aprender, vou excluir os relacionamentos e relacionar as tabelas do zero.
+
+Clique no ícone "Modelo", e depois em "Gerenciar Relações", há as opções de relacionamento novo e automatico.
+
+Criando o relacionamento da tabela F_vendas, campos Cod_prod com a tabela D_Produto, campo Cod_prod
+
+A Cardinalidade é muitos para um, pois muitos códigos da tabela F_Vendas pode ser de um produto
+
+Ative o relacionamento e clique em OK.
+
+Criando o relacionamento da tabela F_vendas, campos Cod_Cliente com a tabela D_Clientes, campo Cod_Cliente
+
+A cardinalidade e novamente muitos para um, pois existem muitas vendas para um cliente.
+
+Basicamente os relacionamentos são:
+
+D_Clientes(Cod_uf)          -> D_UF(Cod_uf)
+D_Produto(Cod_Categoria)    -> D_Categoria(Cod_Categoria)
+F_Metas (Cod_Vend)          -> D_Vendedor(Cod_Vend)        
+F_Vendas(Cod_Canal_Vendas)  -> D_Canal_Vendas(Cod_Canal_Vendas)
+F_Vendas(Cod_Cliente)       -> D_Clientes(Cod_Cliente)
+F_Vendas(Cod_prod)          -> D_Produto(Cod_prod)
+F_Vendas(Cod_Vend)          -> D_Vendedor(Cod_Vend)
+
 Aula_06:
 Aula_07:
 Aula_08:
